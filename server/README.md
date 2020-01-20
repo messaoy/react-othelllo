@@ -1,7 +1,4 @@
-This is the Zenika intranet back-end project which will be used by the students of the academy as well as the student body and the administration.
-
-The current project allows you to log in as a student to see his promotion and his program.
-It also allows you to log in as administrator to create users, programs and promotions. The administrator can also view and edit them
+This is othello back-end project
 
 The front-server project is here : https://gitlab.com/zacademy-paris-2019/zintranet_groupe2
 
