@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal signUp tests should match the snapshot 1`] = `
+<div
+  id="modalSignUp"
+>
+  <div />
+  <div>
+    <header>
+      <p>
+        Inscription
+      </p>
+    </header>
+    <div>
+      <form>
+        <div
+          className="field"
+        >
+          <p>
+            <input
+              className="input"
+              id="emailInput"
+              name="email"
+              onChange={[Function]}
+              placeholder="Email"
+              required={true}
+              type="email"
+              value=""
+            />
+            <span />
+          </p>
+        </div>
+        <div
+          className="field"
+        >
+          <p>
+            <input
+              className="input"
+              id="nameInput"
+              name="name"
+              onChange={[Function]}
+              placeholder="Name"
+              required={true}
+              type="text"
+              value=""
+            />
+            <span />
+          </p>
+        </div>
+        <footer>
+          <button
+            className="button is-success"
+            id="submitButton"
+            onClick={[Function]}
+            type="submit"
+          >
+            S‘inscrire
+          </button>
+          <button
+            className="button"
+            id="cancelButton"
+            onClick={[Function]}
+            type="button"
+          >
+            Annuler
+          </button>
+        </footer>
+      </form>
+    </div>
+  </div>
+</div>
+`;

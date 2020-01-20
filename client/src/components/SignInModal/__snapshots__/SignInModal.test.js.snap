@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Modal signIn tests should match the snapshot 1`] = `
+<div
+  className="modal is-active"
+  id="modalLogin"
+>
+  <div />
+  <div>
+    <header>
+      <p>
+        Connexion
+      </p>
+    </header>
+    <div>
+      <form>
+        <div>
+          <p>
+            <input
+              className="input"
+              id="emailInput"
+              name="email"
+              onChange={[Function]}
+              placeholder="Email"
+              required={true}
+              type="email"
+              value=""
+            />
+            <span />
+          </p>
+        </div>
+        <div>
+          <p>
+            <input
+              className="input"
+              id="passwordInput"
+              name="password"
+              onChange={[Function]}
+              placeholder="Password"
+              required={true}
+              type="password"
+              value=""
+            />
+          </p>
+        </div>
+        <footer>
+          <button
+            className="button is-success"
+            id="submitButton"
+            onClick={[Function]}
+            type="submit"
+          >
+            Se connecter
+          </button>
+          <button
+            className="button"
+            id="cancelButton"
+            onClick={[Function]}
+            type="button"
+          >
+            Annuler
+          </button>
+        </footer>
+      </form>
+    </div>
+  </div>
+</div>
+`;
