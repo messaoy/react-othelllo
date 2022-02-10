@@ -11,7 +11,7 @@
     "eslint-plugin-jest": "^23.0.3",
     "express": "^4.17.1",
     "lodash.merge": "^4.6.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "query-string": "^6.8.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
